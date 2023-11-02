@@ -2,7 +2,8 @@
 
 Kubernetes is a container orchestration platform used to manage containers. It offers several advantages, such as scalability, self-healing capabilities, and cluster management.
 
-![K8s_architecture](https://github.com/ChaitanyaKMV/devops_learning/assets/19556341/8cdce7e5-b8c5-4ac9-8065-b18853c07360)
+![K8s_architecture](https://github.com/ChaitanyaKMV/devops_learning/assets/19556341/6458f487-e6b6-458c-a279-4b6dadc1bd4a)
+
 
 
 ## Components of Kubernetes
